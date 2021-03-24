@@ -15,12 +15,12 @@
 
 - 데이터 추가 (green 추가)
 
-![](./imgs/list2.png)
+![](./imgs/list2.PNG)
 
 
 - 데이터 삭제 (yellow 삭제)
 
-![](./imgs/list3.png)
+![](./imgs/list3.PNG)
 
 > green의 포인터를 red를 가리키도록 변경
 
