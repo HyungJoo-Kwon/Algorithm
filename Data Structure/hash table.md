@@ -6,13 +6,13 @@
 - key와 value가 한 쌍을 이루는 데이터
 - 데이터의 유연한 저장과 빠른 접근이 가능한 해시 테이블은 연관 배열 등에 사용
 
-![](./imgs/hash table1.png)
+![](./imgs/hash_table1.png)
 
 
 
 - 배열에 저장한 경우
 
-  ![](./imgs/hash table2.PNG)
+  ![](./imgs/hash_table2.PNG)
 
 > > 앞에서부터 차례대로 확인하므로 선형 탐색
 > >
@@ -24,15 +24,15 @@
 
   - 데이터 추가
 
-    ![](./imgs/hash table3.png)
+    ![](./imgs/hash_table3.png)
 
-    ![](./imgs/hash table4.png)
+    ![](./imgs/hash_table4.png)
 
-    ![](./imgs/hash table5.png)
+    ![](./imgs/hash_table5.png)
 
   - 데이터 접근
 
-![](./imgs/hash table6.png)
+![](./imgs/hash_table6.png)
 
 
 
