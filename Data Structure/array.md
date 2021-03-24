@@ -22,7 +22,7 @@
 
 - 데이터 삭제 (green 삭제)5
 
-![](./imgs/array4.PNG)
+![](./imgs/array4.png)
 
 - 시간복잡도 (데이터 수가 n)
 
