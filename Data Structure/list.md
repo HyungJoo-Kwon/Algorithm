@@ -5,4 +5,4 @@
 - 데이터를 일직선으로 나열한 형태
 - 데이터 추가나 삭제는 쉽지만, 접근에 시간이 많이 걸림
 
-![](/Data Structure/imgs/list1.png)
+![](./imgs/list1.png)
