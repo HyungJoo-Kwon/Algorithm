@@ -17,11 +17,13 @@
 
 ![](./imgs/list2.png)
 
+
 - 데이터 삭제 (yellow 삭제)
 
 ![](./imgs/list3.png)
 
 > green의 포인터를 red를 가리키도록 변경
+
 
 
 
